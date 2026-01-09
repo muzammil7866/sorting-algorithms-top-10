@@ -42,6 +42,7 @@ Each algorithm is contained in its own `.cpp` file and can be compiled and run i
 ```bash
 g++ bubbleSort.cpp -o bubbleSort
 ./bubbleSort
+```
 
 **Windows (PowerShell):**
 ```powershell
