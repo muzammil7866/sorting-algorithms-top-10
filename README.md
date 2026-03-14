@@ -42,7 +42,6 @@ Each algorithm is contained in its own `.cpp` file and can be compiled and run i
 ```bash
 g++ bubbleSort.cpp -o bubbleSort
 ./bubbleSort
-```
 
 **Windows (PowerShell):**
 ```powershell
@@ -212,7 +211,40 @@ sorting-algorithms-top-10/
 ├── radixSort.cpp          # Radix Sort implementation
 ├── bucketSort.cpp         # Bucket Sort implementation
 └── shellSort.cpp          # Shell Sort implementation
+└── screenshots            # Screenshots of results
 ```
+
+## Screenshots
+
+### Bubble Sort
+![](screenshots/bubble_sort.png)
+
+### Selection Sort
+![](screenshots/selection_sort.png)
+
+### Insertion Sort
+![](screenshots/insertion_sort.png)
+
+### Merge Sort
+![](screenshots/merge_sort.png)
+
+### Quick Sort
+![](screenshots/quick_sort.png)
+
+### Heap Sort
+![](screenshots/heap_sort.png)
+
+### Counting Sort
+![](screenshots/counting_sort.png)
+
+### Radix Sort
+![](screenshots/radix_sort.png)
+
+### Bucket Sort
+![](screenshots/bucket_sort.png)
+
+### Shell Sort
+![](screenshots/shell_sort.png)
 
 ## 🎯 Learning Outcomes
 
